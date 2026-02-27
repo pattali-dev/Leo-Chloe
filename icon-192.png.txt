@@ -1,0 +1,3 @@
+This is a placeholder for the icon.
+To create the actual icons, use the avatar images from the app or create simple emoji-based icons.
+For now, you can use any 192x192 and 512x512 PNG images as app icons.
